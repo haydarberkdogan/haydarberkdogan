@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Haydar Berk Doğan
+# 👋 Hi, I'm Haydar Berk Do
 
 **💻 I enjoy writing code, and web development is a field I’m truly passionate about.**
 
